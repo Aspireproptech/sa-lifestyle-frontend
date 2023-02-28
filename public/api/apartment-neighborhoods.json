@@ -1,0 +1,54 @@
+{
+  "image": "/assets/imagewebp/project/IMG_2627.jpg",
+  "data": [
+    {
+      "title": "Restaurants",
+      "desc": [
+        "Mama's Restaurant- 250 m",
+        "Vaman's Rasoi- 260 m",
+        "Aaha Andhra @ Manyata 2.5 km",
+        "Al-Bek Restaurant-3.2 km"
+      ],
+      "position": {
+        "left": "50%",
+        "top": "38%"
+      }
+    },
+    {
+      "title": "Shopping Center",
+      "desc": [
+        "Elements mall- 3.7 km",
+        "Shopping complex-4.1 km",
+        "Dmart-4.9 km"
+      ],
+      "position": {
+        "left": "34%",
+        "top": "42%"
+      }
+    },
+    {
+      "title": "Hospitals",
+      "desc": [
+        "Chirayu Hospital Thanisandra- 900m",
+        "Surakshaa Hospital - 2 km",
+        "JMJ hospital- 2.7 km"
+      ],
+      "position": {
+        "left": "55%",
+        "top": "20%"
+      }
+    },
+    {
+      "title": "Attractions",
+      "desc": [
+        "Model Village- 4.0 km",
+        "Karnataka Rajya Museum- 3.9 Km",
+        "Hennuru Lake Biodiversity Park- 4.0 km"
+      ],
+      "position": {
+        "left": "73%",
+        "top": "20%"
+      }
+    }
+  ]
+}

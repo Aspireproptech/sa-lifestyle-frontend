@@ -1,0 +1,68 @@
+@import "../../../../public/assets/scss/base/variables";
+
+.form-group-v1 {
+  .form-control {
+    background-color: transparent;
+    border: 2px solid $primary;
+    padding: 0.57rem 1.4rem;
+    margin-top: 0;
+    flex: 1;
+    &::placeholder {
+      color: $body-color;
+    }
+    &:focus {
+      border-color: $primary;
+    }
+  }
+
+  button[type="submit"] {
+    font-size: 12px;
+    transition: all 0.4s;
+  }
+}
+
+.site-footer {
+  .form-group-v1 {
+    .form-control {
+      color: $white;
+    }
+
+    button[type="submit"] {
+      background-color: white;
+      border: 2px solid #fff;
+      color: $primary;
+      &:hover {
+        color: $primary;
+        border-color: $primary;
+        transition: all 0.4s;
+      }
+    }
+  }
+}
+.thanku-box {
+  margin: 0 auto;
+  width: 80%;
+  height: 100%;
+  background-color: #18243c;
+  color: #fff;
+  border-radius: 6px;
+  padding: 10px;
+  text-align: center;
+  h2 {
+    color: #ffffff;
+    font-family: "Roboto", Sans-serif;
+    font-size: 23px;
+    font-weight: 600;
+    margin-top: 20px;
+  }
+  h5 {
+    color: #ffffff;
+    font-family: "Roboto", Sans-serif;
+  }
+  button {
+    background-color: #fff;
+    color: #18243c;
+    margin: 30px 0;
+    border-radius: 6px;
+  }
+}

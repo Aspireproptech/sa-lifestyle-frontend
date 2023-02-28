@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Home",
+    "link": "/",
+    "children": []
+  },
+  {
+    "name": "About Us",
+    "link": "/about-us",
+    "children": []
+  },
+  {
+    "name": "Explore Terraza",
+    "link": "/explore-terraza",
+    "children": []
+  },
+  {
+    "name": "Contact",
+    "link": "/contact-us",
+    "children": []
+  }
+]

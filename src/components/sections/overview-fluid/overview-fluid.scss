@@ -1,0 +1,22 @@
+@import "../../../../public/assets/scss/base/variables";
+.overview-btn {
+    font-family: $font-family-base;
+    font-weight: 300;
+    line-height: 30px;
+    @media (max-width: 767px) {
+        font-size: 12px;
+        line-height: 26px;
+    }
+}
+button{
+    border: none;
+    color:#ffffff;
+    font-family: $font-family-base;
+    font-weight: 500;
+    background-color: $brand-warning;
+   height: 40px;
+   width:13em;
+&:hover{
+    background-color:$brand-warning-hover; 
+} 
+}
