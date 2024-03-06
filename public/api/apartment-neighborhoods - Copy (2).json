@@ -1,0 +1,65 @@
+{
+  "image": "/assets/imagewebp/project/IMG_2627.jpg",
+  "data": [
+    {
+      "title": "Educational Institutions      ",
+      "desc": [
+        "Nafl, Jakkur - 1.4 Km       ",
+        "VIBGYOR High School - 1.8 Km        ",
+  
+        "Manipal Academy of Higher Education - 4 Km",
+        "Vidya Niketan School - 6.7 Km"        ,
+        "Reva Institute of Technology & Management - 7.2 Km"
+      ],
+      "position": {
+        "left": "50%",
+        "top": "38%"
+      }
+    },
+    {
+      "title": "IT Hubs",
+      "desc": [
+        "Manyata Tech Park - 2.2 Km",
+        "Bhartiya City Tech Park - 4.5 Km        ",
+        "L & T Tech Park - 5.9 Km",
+        "BEL Corporate Office - 5.1 Km",
+        "Brigade magnum - 5.5 Km",
+        "Kirloskar Business Park - 6 Km       "
+      ],
+      "position": {
+        "left": "34%",
+        "top": "42%"
+      }
+    },
+    {
+      "title": "Hospitals",
+      "desc": [
+        "Regal Hospital - 3.6 Km",
+        "Rainbow Children's Hospital - 4.5 Km",
+        "Prolife Multispeciality Hospital- 4.5 Km        ",
+        "Aster CMI Hospital - 5.8 Km        ",
+        "Manipal hospital - 6.3 Km",
+        "Baptist Hospital - 8.6 Km"
+      ],
+      "position": {
+        "left": "55%",
+        "top": "20%"
+      }
+    },
+    {
+      "title": "Shopping Complex      ",
+      "desc": [
+        "Elements Mall - 4.1 km",
+        "Bhartiya Mall - 4.7 Km        ",
+       
+        "Phoenix Mall of Asia - 5.9 Km",
+        "Esteem Mall - 6.2 Km",
+        "The Galleria Mall - 6.4 Km        "
+      ],
+      "position": {
+        "left": "73%",
+        "top": "20%"
+      }
+    }
+  ]
+}

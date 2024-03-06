@@ -15,6 +15,16 @@
     "children": []
   },
   {
+    "name": "Explore Verzure",
+    "link": "/explore-verzure",
+    "children": []
+  },
+  {
+    "name": "Explore Premia",
+    "link": "/explore-premia",
+    "children": []
+  },
+  {
     "name": "Contact",
     "link": "/contact-us",
     "children": []

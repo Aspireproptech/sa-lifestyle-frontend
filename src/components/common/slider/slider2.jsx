@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import Slider from "react-slick";
 import "./slider.scss";
 
-class CarouselPage1 extends Component {
+class CarouselPage11 extends Component {
   constructor(props) {
     super(props);
     this.data = [
@@ -99,4 +99,4 @@ class CarouselPage1 extends Component {
   }
 }
 
-export default CarouselPage1;
+export default CarouselPage11;

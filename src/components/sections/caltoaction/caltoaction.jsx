@@ -23,13 +23,13 @@ class CallToActionSection extends Component {
     return (
       <div className="call-to-action text-center">
         <div className="container">
-          <h2 className="text-uppercase text-white">
+          <h2 className="text-uppercase ">
             Location, Location, & Location!
           </h2>
-          <h2 className="text-uppercase text-white my-5">
+          <h2 className="text-uppercase  my-5">
             2 mins from Manyata Tech Park - the true definition of Walk to Work!
           </h2>
-          <h4 className=" text-white my-5" style={{ fontFamily: "none" }}>
+          <h4 className="  my-5" style={{ fontFamily: "none" }}>
             Comfortably positioned just 2 mins from Manyata Tech Park, Terraza
             simply eliminates the need to drive long distances to work.
             Terraza’s prime location, social and commercial infrastructure,

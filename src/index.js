@@ -29,6 +29,8 @@ import OurTeamPage from "./components/pages/our-team/our-team";
 import { getAllData } from "./actions";
 import OurServicesPage from "./components/pages/our-services/our-services";
 import TheBuildingPage from "./components/pages/the-building/the-building";
+import TheBuildingPage2 from "./components/pages/the-building - Copy/the-building";
+import TheBuildingPage3 from "./components/pages/the-building - Copy (2)/the-building";
 import ApartmentsPage from "./components/pages/apartments/apartments";
 import ApartmentSinglePage from "./components/pages/apartment-single/apartment-single";
 import PrivacyPolicy from "./components/common/PrivacyPolicy/PrivacyPolicy";
@@ -55,6 +57,14 @@ class Root extends React.Component {
                   <Route
                     path={`/explore-terraza`}
                     component={TheBuildingPage}
+                  />
+                  <Route
+                    path={`/explore-verzure`}
+                    component={TheBuildingPage2}
+                  />
+                  <Route
+                    path={`/explore-premia`}
+                    component={TheBuildingPage3}
                   />
 
                   {/* <Route path={"*"} component={PageNotFound} /> */}
