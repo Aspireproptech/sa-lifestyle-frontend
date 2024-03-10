@@ -69,15 +69,8 @@ class NeighborhoodsSection extends Component {
                 <div className="col-lg-8 col-sm-12">
                   <div className="image-hotspots">
                     {/* <img src={this.json.image} alt="" style={{ filter: 'brightness(60%)'}}/> */}
-                    <iframe
-                      src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d242.91803966157173!2d77.6325007!3d13.0554805!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae175e6ee2d6a3%3A0x2ed096f896c41113!2s300%2C%20Thanisandra%20Main%20Rd%2C%20Sampangi%20Rama%20Nagar%2C%20Ashwath%20Nagar%2C%20Sinthan%20Nagar%2C%20Bengaluru%2C%20Karnataka%20560045!5e0!3m2!1sen!2sin!4v1664610233959!5m2!1sen!2sin"
-                      width="800"
-                      height="600"
-                      style={{ border: 0 }}
-                      allowfullscreen=""
-                      loading="lazy"
-                      referrerpolicy="no-referrer-when-downgrade"
-                    />
+                   
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.4166183670095!2d77.6187787!3d13.072761799999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae19be1f4f7ae3%3A0xc6bc495cc2abe06d!2sUnishire%20Belvedere%20Premia!5e0!3m2!1shi!2sin!4v1710049392166!5m2!1shi!2sin" width="800" height="600" style={{ border: 0 }} allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                     {/* {this.json.data.map((data, index) => (
                       <div
                         className="tooltip-wrapper"

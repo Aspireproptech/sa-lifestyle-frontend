@@ -24,7 +24,7 @@ class CallToAction2Section extends Component {
     return (
       <div className="call-to-action text-center">
         <div className="container">
-          <h2 className="text-uppercase text-white">
+          <h2 className="text-uppercase ">
             {this.props.text
               ? this.props.text
               : "If you are in a hurry, download a brochure instead"}

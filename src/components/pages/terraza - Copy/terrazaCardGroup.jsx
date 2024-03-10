@@ -14,7 +14,7 @@ class terrazaCardGroup extends Component {
                 <div className="featured-box-wrap">
                   <div className="featured-box-top">
                     <div className="featured-box-icon">
-                      <i class="fa fa-lock" aria-hidden="true"></i>
+                     <img src= '/assets/imagewebp/project/ch.png' className="eq"></img>
                     </div>
                     <h3 className="featured-box-title text-uppercase">
                     Techies' Paradise
@@ -34,7 +34,7 @@ class terrazaCardGroup extends Component {
                 <div className="featured-box-wrap">
                   <div className="featured-box-top">
                     <div className="featured-box-icon">
-                      <i class="fa fa-home" aria-hidden="true"></i>
+                    <img src= '/assets/imagewebp/project/hm.png' className="eq"></img>
                     </div>
                     <h3 className="featured-box-title text-uppercase">
                     Thoughtfully Designed Spaces
@@ -54,7 +54,7 @@ class terrazaCardGroup extends Component {
                 <div className="featured-box-wrap">
                   <div className="featured-box-top">
                     <div className="featured-box-icon">
-                      <i class="fa fa-user-circle" aria-hidden="true"></i>
+                    <img src= '/assets/imagewebp/project/dd.png' className="eq"></img>
                     </div>
                     <h3 className="featured-box-title text-uppercase">
                     Double Delight
@@ -76,7 +76,7 @@ class terrazaCardGroup extends Component {
                 <div className="featured-box-wrap">
                   <div className="featured-box-top">
                     <div className="featured-box-icon">
-                      <i class="fa fa-map-marker" aria-hidden="true"></i>
+                    <img src= '/assets/imagewebp/project/11.png' className="eq"></img>
                     </div>
                     <h3 className="featured-box-title text-uppercase">
                     Abundant Light & Ventilation
@@ -96,7 +96,7 @@ class terrazaCardGroup extends Component {
                 <div className="featured-box-wrap">
                   <div className="featured-box-top">
                     <div className="featured-box-icon">
-                      <i class="fa fa-usd" aria-hidden="true"></i>
+                    <img src= '/assets/imagewebp/project/ne.png' className="eq"></img>
                     </div>
                     <h3 className="featured-box-title text-uppercase">
                     Nature's Embrace
@@ -116,7 +116,7 @@ class terrazaCardGroup extends Component {
                 <div className="featured-box-wrap">
                   <div className="featured-box-top">
                     <div className="featured-box-icon">
-                      <i class="fa fa-bookmark" aria-hidden="true"></i>
+                    <img src= '/assets/imagewebp/project/111.png' className="eq"></img>
                     </div>
                     <h3 className="featured-box-title text-uppercase">
                     Life, Upgraded

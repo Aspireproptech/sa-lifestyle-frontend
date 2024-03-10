@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import Breadcrumb from "../../common/breadcrumb/breadcrumb";
 import NeighborhoodsSection from "../../sections/neighborhoods - Copy/neighborhoods";
 import AmenitiesSection from "../../sections/amenities - Copy/amenities";
-import SliderTerraza from "../../common/slider/sliderTerraza";
+import SliderTerraza from "../../common/slider/sliderTerraza - Copy";
 import TerrazaRightCards from "../terraza - Copy/terrazaRightCards";
 import TerrazaCardGroup from "../terraza - Copy/terrazaCardGroup";
 
@@ -11,7 +11,8 @@ import Helmet from "react-helmet";
 import "./the-building.scss";
 import { Parallax } from "react-parallax";
 // import GallerrySection from "../../sections/gallerry/gallerry";
-import ApartmentsPlansSection from "../../sections/ourvalues/ourvalues";
+
+import ApartmentsPlansSection from "../../sections/ourvalues - Copy/ourvalues"
 import TerrazaLeftCards from "../terraza - Copy/terrazaLeftCards";
 import CallToActionSection from "../../sections/caltoaction - Copy/caltoaction";
 import CallToAction2Section from "../../sections/caltoaction/caltoaction2";
@@ -126,7 +127,7 @@ class TheBuildingPage2 extends Component {
           >
             <AmenitiesSection />
           </div>
-          <div className="section-wrapper pb-0">
+          <div className=" pb-0">
             <CallToAction2Section
               text="GET IN TOUCH WITH US!"
               btntext="ENQUIRE NOW!"

@@ -13,7 +13,7 @@ class terrazaCardGroup extends Component {
                 <div className="featured-box-wrap">
                   <div className="featured-box-top">
                     <div className="featured-box-icon">
-                      <i class="fa fa-lock" aria-hidden="true"></i>
+                    <img src= '/assets/imagewebp/project/p1.png' className="eq"></img>
                     </div>
                     <h3 className="featured-box-title text-uppercase">
                     Sky High Comfort
@@ -33,7 +33,7 @@ class terrazaCardGroup extends Component {
                 <div className="featured-box-wrap">
                   <div className="featured-box-top">
                     <div className="featured-box-icon">
-                      <i class="fa fa-home" aria-hidden="true"></i>
+                    <img src= '/assets/imagewebp/project/p2.png' className="eq"></img>
                     </div>
                     <h3 className="featured-box-title text-uppercase">
                     Close-Knit Convenience
@@ -53,7 +53,7 @@ class terrazaCardGroup extends Component {
                 <div className="featured-box-wrap">
                   <div className="featured-box-top">
                     <div className="featured-box-icon">
-                      <i class="fa fa-user-circle" aria-hidden="true"></i>
+                    <img src= '/assets/imagewebp/project/p3.png' className="eq"></img>
                     </div>
                     <h3 className="featured-box-title text-uppercase">
                       
@@ -75,7 +75,7 @@ Architectural Marvel
                 <div className="featured-box-wrap">
                   <div className="featured-box-top">
                     <div className="featured-box-icon">
-                      <i class="fa fa-map-marker" aria-hidden="true"></i>
+                    <img src= '/assets/imagewebp/project/p4.png' className="eq"></img>
                     </div>
                     <h3 className="featured-box-title text-uppercase">
                     Distinctive Crown Living
@@ -96,7 +96,7 @@ Architectural Marvel
                 <div className="featured-box-wrap">
                   <div className="featured-box-top">
                     <div className="featured-box-icon">
-                      <i class="fa fa-usd" aria-hidden="true"></i>
+                    <img src= '/assets/imagewebp/project/p5.png' className="eq"></img>
                     </div>
                     <h3 className="featured-box-title text-uppercase">
                     Premium Brand Alliances
@@ -117,7 +117,7 @@ Architectural Marvel
                 <div className="featured-box-wrap">
                   <div className="featured-box-top">
                     <div className="featured-box-icon">
-                      <i class="fa fa-bookmark" aria-hidden="true"></i>
+                    <img src= '/assets/imagewebp/project/p6.png' className="eq"></img>
                     </div>
                     <h3 className="featured-box-title text-uppercase">
                     Luxurious Oasis Living

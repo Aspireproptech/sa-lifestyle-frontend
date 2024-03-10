@@ -48,6 +48,7 @@ class MainMenu extends Component {
                         <ul className="top-menu menu">
                             {menu.map((item, key) => this.menuRender(item, key))}
                         </ul>
+                       
                     </div>
                 </nav>
             </div>

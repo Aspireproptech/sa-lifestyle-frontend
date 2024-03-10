@@ -1,5 +1,5 @@
 @import "../../../../public/assets/scss/base/variables";
-.slider-image,
+.slider-image,.slider-image2,.slider-image3,
 .slider-image-home {
   position: absolute;
   top: 0;
@@ -19,6 +19,22 @@
 @media screen and (max-width: 768px) {
   .slider-image {
     background-image: url("/assets/imagewebp/project/Teraza-slider-mobile.jpg");
+  }
+}
+.slider-image2 {
+  background-image: url("/assets/imagewebp/project/1.png");
+}
+@media screen and (max-width: 768px) {
+  .slider-image2 {
+    background-image: url("/assets/imagewebp/project/2.png");
+  }
+}
+.slider-image3 {
+  background-image: url("/assets/imagewebp/project/PREMIA - 1920_1080 (1).png");
+}
+@media screen and (max-width: 768px) {
+  .slider-image3 {
+    background-image: url("/assets/imagewebp/project/PREMIA - 720_1600 (1).png");
   }
 }
 .slider-image-home {

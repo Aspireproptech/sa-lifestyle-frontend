@@ -10,19 +10,25 @@
     "children": []
   },
   {
-    "name": "Explore Terraza",
+    "name": "Our Projects",
     "link": "/explore-terraza",
-    "children": []
-  },
-  {
-    "name": "Explore Verzure",
-    "link": "/explore-verzure",
-    "children": []
-  },
-  {
-    "name": "Explore Premia",
-    "link": "/explore-premia",
-    "children": []
+    "children": [
+      {
+        "name": "Explore Terraza",
+        "link": "/explore-terraza",
+        "children": []
+      },
+      {
+        "name": "Explore Verzure",
+        "link": "/explore-verzure",
+        "children": []
+      },
+      {
+        "name": "Explore Premia",
+        "link": "/explore-premia",
+        "children": []
+      }
+    ]
   },
   {
     "name": "Contact",

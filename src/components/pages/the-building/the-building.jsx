@@ -126,7 +126,7 @@ class TheBuildingPage extends Component {
           >
             <AmenitiesSection />
           </div>
-          <div className="section-wrapper pb-0">
+          <div className=" pb-0">
             <CallToAction2Section
               text="GET IN TOUCH WITH US!"
               btntext="ENQUIRE NOW!"
