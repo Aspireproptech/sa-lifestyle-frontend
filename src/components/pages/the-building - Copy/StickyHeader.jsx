@@ -47,7 +47,7 @@ const StickyHeader = () => {
         spy
         to="#reasons"
       >
-        <span>7 Reasons</span>
+        <span>6 Reasons</span>
       </Link>
       <Link spyThrottle={500} smooth activeClass="span-active" spy to="#floor">
         <span>Floor Plans</span>
