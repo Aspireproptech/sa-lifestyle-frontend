@@ -11,13 +11,9 @@
   },
   {
     "name": "Our Projects",
-    "link": "/explore-terraza",
+    "link": "/explore-verzure",
     "children": [
-      {
-        "name": "Explore Terraza",
-        "link": "/explore-terraza",
-        "children": []
-      },
+      
       {
         "name": "Explore Verzure",
         "link": "/explore-verzure",

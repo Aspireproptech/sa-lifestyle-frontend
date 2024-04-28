@@ -46,9 +46,9 @@ class SliderHome extends Component {
                   <Link to={`/about-us`}>
                     <button className="my-2">Know more</button>
                   </Link>
-                  <Link to={`/explore-terraza`}>
+                  {/* <Link to={`/explore-terraza`}>
                     <button>Explore Terraza</button>
-                  </Link>
+                  </Link> */}
                 </div>
               </div>
             </div>

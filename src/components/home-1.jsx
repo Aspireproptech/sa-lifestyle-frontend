@@ -46,7 +46,7 @@ class Home1 extends Component {
         </div> */}
         <div className="section-wrapper">
           <OurServicesSection />
-          <ExploreAmenitiesSection />
+          {/* <ExploreAmenitiesSection /> */}
         </div>
 
         {/* <div className="section-wrapper">
