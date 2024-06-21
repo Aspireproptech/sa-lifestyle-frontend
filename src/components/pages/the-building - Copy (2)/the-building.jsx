@@ -65,7 +65,7 @@ class TheBuildingPage3 extends Component {
                     <div className="col-lg-4 col-md-4 col-sm-4">
                       <div className="box-counter text-center text-white">
                         <div className="box-counter-wrap">
-                          <div className="counter-nummer">1 </div>
+                          <div className="counter-nummer">1.13 </div>
                           <div className="counter-text">Acres</div>
                         </div>
                       </div>
@@ -74,7 +74,7 @@ class TheBuildingPage3 extends Component {
                     <div className="col-lg-4 col-md-4 col-sm-4">
                       <div className="box-counter text-center text-white">
                         <div className="box-counter-wrap">
-                          <div className="counter-nummer">2.5 Km</div>
+                          <div className="counter-nummer">2.2 Kms</div>
                           <div className="counter-text">
                             from Manyata Tech Park
                           </div>
@@ -86,7 +86,7 @@ class TheBuildingPage3 extends Component {
                     <div className="col-lg-4 col-md-4 col-sm-4">
                       <div className="box-counter text-center text-white">
                         <div className="box-counter-wrap">
-                          <div className="counter-nummer">1571 to 3411 </div>
+                          <div className="counter-nummer">1776 to 3411 </div>
                           <div className="counter-text">sqft</div>
                         </div>
                       </div>

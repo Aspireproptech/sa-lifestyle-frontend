@@ -22,7 +22,7 @@ class AmenitiesSection extends Component {
                       <span className="icon-list-icon">
                         <i className="fa fa-angle-right"></i>
                       </span>
-                      <span className="icon-list-text">Sky Pool - Infinity Heated Swimming Pool on the Rooftop
+                      <span className="icon-list-text">Temperature Controlled infinity pool
 </span>
                     </li>
                     <li className="icon-list-items">
@@ -62,6 +62,13 @@ class AmenitiesSection extends Component {
                       <span className="icon-list-text">Wide Landscaped Driveways
 </span>
                     </li>
+                    <li className="icon-list-items">
+                      <span className="icon-list-icon">
+                        <i className="fa fa-angle-right"></i>
+                      </span>
+                      <span className="icon-list-text">Reflexology Path
+</span>
+                    </li>
                   </ul>
                 </div>
               </div>
@@ -94,18 +101,26 @@ class AmenitiesSection extends Component {
 
                       </span>
                     </li>
+                    
                     <li className="icon-list-items">
                       <span className="icon-list-icon">
                         <i className="fa fa-angle-right"></i>
                       </span>
-                      <span className="icon-list-text">Sensory Garden
+                      <span className="icon-list-text">Butterfly Garden
 </span>
                     </li>
                     <li className="icon-list-items">
                       <span className="icon-list-icon">
                         <i className="fa fa-angle-right"></i>
                       </span>
-                      <span className="icon-list-text">Butterfly Garden
+                      <span className="icon-list-text">Pets Park
+</span>
+                    </li>
+                    <li className="icon-list-items">
+                      <span className="icon-list-icon">
+                        <i className="fa fa-angle-right"></i>
+                      </span>
+                      <span className="icon-list-text"> Multi Purpose Court
 </span>
                     </li>
                     <li className="icon-list-items">

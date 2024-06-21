@@ -52,7 +52,7 @@ class LeftAmenities extends Component {
                         <i className="fa fa-angle-right"></i>
                       </span>
                       <span className="icon-list-text">
-                      Cigar Lounge
+                      Association Centre
 
                       </span>
                     </li>

@@ -28,7 +28,7 @@ class CallToActionSection extends Component {
 
           </h2>
           <h2 className="text-uppercase  my-5">
-            2.5 km from Manyata Tech Park - the true definition of Walk to Work!
+            2.2 km from Manyata Tech Park - the true definition of Walk to Work!
           </h2>
           <h4 className="  my-5" style={{ fontFamily: "none" }}>
           Strategically located only 2.5 kilometers from Manyata Tech Park, Premia offers a convenient solution, sparing residents from long commutes. Situated in the prime area of Jakkur, with excellent social and commercial amenities, connectivity, and attractive pricing, it proves to be an ideal option for both homebuyers and investors. Additionally, the upcoming Jakkur Cross Metro Station adds to its appeal.

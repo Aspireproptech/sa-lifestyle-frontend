@@ -33,7 +33,7 @@ class TerrazaRightCards extends Component {
 
               </h2>
               <p className="pb-4">
-              Enjoy exclusive living in limited 5-units-per-floor residences, prioritizing privacy with 3 dedicated lifts for easy access, fostering a close-knit community among 68 families.
+              Enjoy exclusive living in limited 5-units-per-floor residences, prioritizing privacy with 3 dedicated lifts for easy access, fostering a close-knit community among 78 families.
 
               </p>
               <div onClick={this.onOpenModal}>

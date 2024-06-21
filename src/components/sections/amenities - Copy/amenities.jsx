@@ -73,15 +73,7 @@ class AmenitiesSection extends Component {
                       <span className="icon-list-text">Open Air Gym
 </span>
                     </li>
-                    <li className="icon-list-items">
-                      <span className="icon-list-icon">
-                        <i className="fa fa-angle-right"></i>
-                      </span>
-                      <span className="icon-list-text">
-                      Pet Park
-
-                      </span>
-                    </li>
+                   
                     <li className="icon-list-items">
                       <span className="icon-list-icon">
                         <i className="fa fa-angle-right"></i>
