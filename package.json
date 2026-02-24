@@ -106,7 +106,7 @@
     "workbox-webpack-plugin": "3.6.3"
   },
   "engines": {
-  "node": "16.x"
+  "node": "20.x"
   },
   "scripts": {
     "start": "node scripts/start.js",
